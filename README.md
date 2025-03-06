@@ -15,9 +15,9 @@ Dieses Repository basiert auf einem **Synology DS918+ NAS** mit folgender Aussta
 - **Modell**: Synology DS918+
 - **Prozessor**: Intel Celeron J3455, 4 Kerne @ 1,5 GHz (Burst bis 2,3 GHz)
 - **RAM**: 8 GB DDR3L (erweiterbar)
-- **Festplatten**: 4 Einschübe (aktuelles Setup: <Hier dein Setup einfügen>)
-- **Betriebssystem**: DSM (DiskStation Manager) 7.x
-- **Zusätzliche Erweiterungen**: (z. B. NVMe-Cache, 10-Gbit-Netzwerkadapter, falls vorhanden)
+- **Festplatten**: 4 Einschübe (aktuelles Setup: Seagate Exos X16 ST12000NM001G 12TB; HGST Ultrastar HE12 12TB HDD SATA 6Gb/s 4KN SE 7200Rpm HUH721212ALN604 in separaten Raids)
+- **Betriebssystem**: DSM (DiskStation Manager) 7.2
+- **Zusätzliche Erweiterungen**: /
 
 Falls du ein anderes NAS verwendest, können sich einige Konfigurationsschritte unterscheiden.
 
