@@ -8,6 +8,19 @@ Willkommen im Repository **nas-setup**! Dieses Repository dient als **Wissenssam
 
 Dieses Repository wächst mit meinen Erfahrungen und ist eine zentrale Anlaufstelle für meine NAS-Konfiguration. Hier sammle ich bewährte Methoden, hilfreiche Anleitungen und Lösungswege für häufige Probleme, um meinen NAS effizient zu verwalten und stetig zu optimieren.
 
+## 🖥 Technische Ausstattung
+
+Dieses Repository basiert auf einem **Synology DS918+ NAS** mit folgender Ausstattung:
+
+- **Modell**: Synology DS918+
+- **Prozessor**: Intel Celeron J3455, 4 Kerne @ 1,5 GHz (Burst bis 2,3 GHz)
+- **RAM**: 8 GB DDR3L (erweiterbar)
+- **Festplatten**: 4 Einschübe (aktuelles Setup: <Hier dein Setup einfügen>)
+- **Betriebssystem**: DSM (DiskStation Manager) 7.x
+- **Zusätzliche Erweiterungen**: (z. B. NVMe-Cache, 10-Gbit-Netzwerkadapter, falls vorhanden)
+
+Falls du ein anderes NAS verwendest, können sich einige Konfigurationsschritte unterscheiden.
+
 ## 📂 Verzeichnisstruktur & Unterthemen
 
 ```
