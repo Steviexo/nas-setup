@@ -54,8 +54,8 @@ nas-setup/
 
 ### 🔹 **Backup & Recovery**
 
-- **[Hyper Backup zu Nextcloud (WebDAV)](docs/backup/hyper-backup-nextcloud.md)**: Sicherung von NAS-Daten auf VPS-Cloudziel
-- **[VPS-Pull per rsync](docs/backup/vps-nas-pull.md)**: Automatisiertes Abholen von Backups per DSM-Aufgabe
+- **[Hyper Backup zu Nextcloud (WebDAV)](docs/backups/hyper-backup-nextcloud.md)**: Sicherung von NAS-Daten auf VPS-Cloudziel
+- **[VPS-Pull per rsync](docs/backups/vps-nas-pull.md)**: Automatisiertes Abholen von Backups per DSM-Aufgabe
 
 ### 🚧 **In Arbeit / Geplante Inhalte**
 
