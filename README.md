@@ -30,6 +30,7 @@ nas-setup/
 │   ├── architecture.md   # Technische Architektur
 │   ├── faq.md            # Häufig gestellte Fragen
 │   ├── installation.md   # Installationsanleitung
+│   ├── synophotosapp.md  # Konfiguration von Synology Photos App
 │   ├── docker/           # Alles rund um Docker
 │   │   ├── paperless-ngx.md  # Dokumentation zu Paperless-NGX
 │   │   ├── nextcloud.md      # Einrichtung von Nextcloud
@@ -51,6 +52,7 @@ nas-setup/
 
 - **Systemhärtung & Sicherheit** (Geplant)
 - **RAID & Speichermanagement** (Geplant)
+- **[Synology Photos App](docs/synophotosapp.md)**
 
 ### 🔹 **Backup & Recovery**
 
